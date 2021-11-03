@@ -33,6 +33,11 @@ $width: 20px;
             text-decoration: none;
             padding: 16px 10px;
             border-left: 1px solid rgb(122, 122, 148);
+
+            &:hover {
+                background-color: blueviolet;
+                color: #fff;
+            }
         }
     }
 }

@@ -28,6 +28,10 @@
   padding: 16px 10px;
   border-left: 1px solid #7a7a94;
 }
+.header .tags a:hover {
+  background-color: blueviolet;
+  color: #fff;
+}
 
 .bimg img {
   width: 100%;
